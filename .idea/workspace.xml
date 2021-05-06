@@ -1,0 +1,258 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="fc4b5b5d-9224-4a04-aa2e-95895cb76075" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="H:\program files\apache-maven-3.6.3-bin\apache-maven-3.6.3\repository" />
+        <option name="mavenHome" value="H:\program files\apache-maven-3.6.3-bin\apache-maven-3.6.3" />
+        <option name="userSettingsFile" value="H:\program files\apache-maven-3.6.3-bin\apache-maven-3.6.3\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1s8n9DEzLTmchmBNEvANjnSrh8m" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="foldersAlwaysOnTop" value="false" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="jdk.selected.JAVA_MODULE" value="1.8" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="project.structure.last.edited" value="SDKs" />
+    <property name="project.structure.proportion" value="0.17" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="F:\shop1\shop\shop\shop-order\src\main\resources\config" />
+      <recent name="F:\shop1\shop\shop\shop-rpc\src\main\resources\config" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Spring Boot.SSOApplication">
+    <configuration name="App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.xxxx.App" />
+      <module name="shop-common" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.xxxx.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ManagerApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="shop-manager" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.xxxx.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.xxxx.ManagerApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OrderApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="shop-order" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.xxxx.order.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.xxxx.order.OrderApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RpcApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="shop-rpc" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.xxxx.rpc.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.xxxx.rpc.RpcApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SSOApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="shop-sso" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.xxxx.sso.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.xxxx.sso.SSOApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Spring Boot.RpcApplication" />
+        <item itemvalue="Spring Boot.OrderApplication" />
+        <item itemvalue="Spring Boot.SSOApplication" />
+        <item itemvalue="Spring Boot.ManagerApplication" />
+        <item itemvalue="Application.App" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="fc4b5b5d-9224-4a04-aa2e-95895cb76075" name="Default Changelist" comment="" />
+      <created>1620262931227</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1620262931227</updated>
+      <workItem from="1620262932274" duration="950000" />
+      <workItem from="1620263972603" duration="12485000" />
+    </task>
+    <task id="LOCAL-00001" summary="环境搭配">
+      <created>1620282669420</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1620282669420</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="UnknownFeatures">
+    <option featureType="com.intellij.fileTypeFactory" implementationName="*.yml" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="环境搭配" />
+    <option name="LAST_COMMIT_MESSAGE" value="环境搭配" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="151" y="0" key="CommitChangelistDialog2" timestamp="1620282665786">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="151" y="0" key="CommitChangelistDialog2/0.0.1280.680@0.0.1280.680" timestamp="1620282665786" />
+    <state x="421" y="95" key="FileChooserDialogImpl" timestamp="1620263837991">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="421" y="95" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1620263837991" />
+    <state width="1237" height="337" key="GridCell.Tab.0.bottom" timestamp="1620282201725">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="337" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1620282201725" />
+    <state width="1237" height="337" key="GridCell.Tab.0.center" timestamp="1620282201695">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="337" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1620282201695" />
+    <state width="1237" height="337" key="GridCell.Tab.0.left" timestamp="1620282201695">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="337" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1620282201695" />
+    <state width="1237" height="337" key="GridCell.Tab.0.right" timestamp="1620282201725">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="337" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1620282201725" />
+    <state width="1237" height="337" key="GridCell.Tab.1.bottom" timestamp="1620282201725">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="337" key="GridCell.Tab.1.bottom/0.0.1280.680@0.0.1280.680" timestamp="1620282201725" />
+    <state width="1237" height="337" key="GridCell.Tab.1.center" timestamp="1620282201725">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="337" key="GridCell.Tab.1.center/0.0.1280.680@0.0.1280.680" timestamp="1620282201725" />
+    <state width="1237" height="337" key="GridCell.Tab.1.left" timestamp="1620282201725">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="337" key="GridCell.Tab.1.left/0.0.1280.680@0.0.1280.680" timestamp="1620282201725" />
+    <state width="1237" height="337" key="GridCell.Tab.1.right" timestamp="1620282201725">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="337" key="GridCell.Tab.1.right/0.0.1280.680@0.0.1280.680" timestamp="1620282201725" />
+    <state x="171" y="0" key="Maven.ArtifactSearchDialog" timestamp="1620273301723">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="171" y="0" key="Maven.ArtifactSearchDialog/0.0.1280.680@0.0.1280.680" timestamp="1620273301723" />
+    <state x="121" y="0" key="SettingsEditor" timestamp="1620281660538">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="121" y="0" key="SettingsEditor/0.0.1280.680@0.0.1280.680" timestamp="1620281660538" />
+    <state x="233" y="74" key="Vcs.Push.Dialog.v2" timestamp="1620282676277">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="233" y="74" key="Vcs.Push.Dialog.v2/0.0.1280.680@0.0.1280.680" timestamp="1620282676277" />
+    <state x="28" y="1" key="new project wizard" timestamp="1620268225006">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="28" y="1" key="new project wizard/0.0.1280.680@0.0.1280.680" timestamp="1620268225006" />
+    <state x="303" y="1" width="672" height="678" key="search.everywhere.popup" timestamp="1620281912108">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="303" y="1" width="672" height="678" key="search.everywhere.popup/0.0.1280.680@0.0.1280.680" timestamp="1620281912108" />
+  </component>
+</project>
